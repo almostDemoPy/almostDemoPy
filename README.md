@@ -1,14 +1,16 @@
-<h1 align="center">demo.py</h1>
-<p align="center">A lone Python-only programmer who's bored ( and broke ) in life<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' text-decoration=none>.</a></p>
+<div align="center">
+  <img height=150 align="center" src="https://github.com/user-attachments/assets/1c9577e8-56e9-4e42-b020-10a2e9232f7c"/>
+</div>
 
-![Static Badge](https://img.shields.io/badge/Python-%3E%3D3.12-yellow?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Since-November_2020-blue?style=for-the-badge)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=almostDemoPy&theme=transparent&show_icons=true&rank_icon=percentile&custom_title=almostDemoPy&show_owner=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almostDemoPy&theme=transparent&layout=compact&card_width=320&langs_count=8" />
+  </a>
+</div>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z413A7I5)
+### Projects
 
-## Projects
-1. [democord](https://github.com/almostDemoPy/democord) - A Discord API wrapper written in Python
-2. [demo.py](https://github.com/almostDemoPy/demo.py) - Book of Python
-
-## Socials
-![Static Badge](https://img.shields.io/badge/Discord-demoutrei-%235865F2?style=for-the-badge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almostDemoPy&repo=democord&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almostDemoPy&repo=demo.py&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
